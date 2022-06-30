@@ -448,7 +448,6 @@ margin-bottom: 30px;
 }
 
 .portfolio-title{
-  font-family: 'Roboto';
   font-style: normal;
   font-weight: 700;
   font-size: 18px;
@@ -458,11 +457,27 @@ margin-bottom: 30px;
   letter-spacing: 0.06em;
   
   color: #212121;
+  margin-left: 26px;
 
 }
 
+.portfolio-text{
+
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 30px;
+/* identical to box height, or 188% */
+
+letter-spacing: 0.03em;
+
+color: #757575;
+margin-left: 24px;
+}
+
 .portfolio-image{
-margin-bottom: 20px;
+margin-bottom: 24px;
+margin-top: -34px;
 
 }
 
